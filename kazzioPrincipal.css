@@ -185,17 +185,17 @@ body{
     position:absolute;
     width: 15%;
     top: 72%;
-    left: 15%;
+    left: 25%;
     border-radius: 5%;
 }
 #Safira{
    
     text-decoration: none;
-        line-height: 5%;
+    line-height: 5%;
     color: #eaeaea;
     font-size: 20px;
    position: absolute; 
-    left: 15%;
+    left: 25%;
     top: 100%;
 }
 #COMPRAS5{
