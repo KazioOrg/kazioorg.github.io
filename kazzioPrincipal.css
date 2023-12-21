@@ -181,21 +181,6 @@ body{
     background-color: #000000;
     border-radius: 15%;
 }
-@media screen and (max-width: 768px) {
-    /* Estilos para telas menores */
-  }
-  
-  body {
-    font-size: 16px;
-  }
-  
-  @media screen and (max-width: 600px) {
-    body {
-      font-size: 14px;
-    }
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+
+
   
