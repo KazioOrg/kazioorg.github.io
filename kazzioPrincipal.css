@@ -182,5 +182,34 @@ body{
     border-radius: 15%;
 }
 
+#IMAGEM5{
+    position:absolute;
+    width: 15%;
+    top: 72%;
+    left: 15%;
+    border-radius: 5%;
+}
+#Safira{
+   
+    text-decoration: none;
+        line-height: 5%;
+    color: #eaeaea;
+    font-size: 20px;
+   position: absolute; 
+    left: 15%;
+    top: 100%;
+}
+#COMPRAS5{
+    width: 5%;
+    height: 5%;
+    color: #eaeaea;
+    font-size: 20px;
+   position: absolute; 
+    left: 25%;
+    top: 102%;
+    background-color: #000000;
+    border-radius: 15%;
+}
+
 
   
