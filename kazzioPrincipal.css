@@ -183,13 +183,13 @@ body{
 }
 
 #IMAGEM5{
-    position:absolute;
+    
     width: 15%;
     top: 72%;
-    left: 15%;
+    left: 40%;
     border-radius: 5%;
 }
-#Safira{
+    #Safira{
    
     text-decoration: none;
         line-height: 5%;
