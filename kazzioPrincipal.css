@@ -17,7 +17,7 @@ img{
     padding-right: 10px;
     margin-right: 10px;
     float: left;
-    background-size: fill;
+    background-size: 100%;
     text-decoration: none;
 }
 
@@ -33,15 +33,14 @@ img{
 #navbar>ul>a {
     float: right;
     display: block;
-    background:transparent;
     color: #eaeaea;
-    font-family: Roboto, Ariel;
+    font-family: Roboto, Ariel, serif;
     text-align: center;
     padding-top: 0.9rem;
     width: 150px;
     height: 2.1rem;
     transition: background-color 0.2s;
-    background-color: black;
+    background: black none;
 }
 /**/
 
@@ -53,7 +52,6 @@ img{
 a {
     color: #ececec;
     font-size:xx-large;
-    width: 1%;  
     text-decoration: none;
     position: absolute;
     top: 15%;
@@ -65,8 +63,9 @@ a {
 
 }
 
+/*noinspection ALL*/
 body{
-    background: linear-gradient(left top, left bottom, from(#ff0000), to(#000000));
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff0000), to(#000000)) fixed;
 
 }
 #IMAGEM2{
